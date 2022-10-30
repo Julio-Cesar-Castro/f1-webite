@@ -21,7 +21,7 @@ module.exports = {
     },
     extend: {
       backgroundImage: {
-        F1: "url('./src/assets/F1-Image.png')",
+        F1: "url('./src/assets/Test.avif')",
       },
     },
   },
